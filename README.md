@@ -9,12 +9,7 @@
 * **Frameworks:** NumPy, Pandas, Matplotlib, Seaborn, Sci-kit Learn, Flask, React, Next.js, Express, NodeJS, Angular, BeautifulSoup
 * **Tools:** Firebase, MongoDB, Mock Service Worker, Jira
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=valamuri2020&theme=tokyonight&count_private=true" />
-      &nbsp;&nbsp;                                     
-</a>
+[![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=valamuri2020&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=valamuri2020&theme=tokyonight&layout=compact" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=valamuri2020&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
