@@ -1,6 +1,6 @@
 # Hi, I'm Vivek 👋
 
-* Computer Engineering @UWaterloo
+* Computer Engineering @UWaterloo - Class of 2025
 * Web Developer @[eButterfly](https://www.e-butterfly.org/ebapp/en)
 * Aspiring Data Scientist with a keen interest in Machine Learning
 
