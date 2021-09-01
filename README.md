@@ -2,7 +2,7 @@
 
 * **Computer Engineering @UWaterloo - Class of 2025**
 * **Bioinformatics SWE intern @ OICR (Ontario Institute for Cancer Research)**
-* **Aspiring Machine Learning Engineer** 
+* **Aspiring Data Scientist** with a keen interest in Machine Learning 
 * **Open to Opportunities!**
 
 # My Skills:
