@@ -6,8 +6,8 @@
 * **Open to Summer '22 Opportunities!**
 
 # My Skills:
-* **Languages:** Python, JavaScript/TypeScript, C++, SQL, HTML, CSS
-* **Frameworks:** Pandas, Sci-kit Learn, TensorFlow, Matplotlib, Seaborn, Flask, Express, React, Next.js, Angular
+* **Languages:** Python, JavaScript/TypeScript, R, C++, SQL, WDL, HTML, CSS
+* **Libraries/Frameworks:** Numpy, Pandas, Tidyverse, Sci-kit Learn, TensorFlow, OpenCV, MediaPipe, Flask, Express, React
 * **Tools:** GCP, NodeJS, MongoDB, Mock Service Worker, Jira
 
 <!-- [![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=valamuri2020&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
