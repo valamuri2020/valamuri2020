@@ -7,8 +7,8 @@
 
 # My Skills:
 * **Languages:**  Python, R, JavaScript/TypeScript, C++, SQL, WDL, HTML
-* **Libraries/Frameworks:** Tidyverse, Pandas, Sci-kit Learn, TensorFlow, OpenCV, MediaPipe, Flask, Node.js, Express, React
-* **Tools:**  GCP, Docker, NLTK, MySQL, MongoDB, Figma, Cromwell, Git
+* **Libraries/Frameworks:** Tidyverse, PySpark, Sci-kit Learn, TensorFlow, OpenCV, MediaPipe, Flask, Node.js, Express, React
+* **Tools:** GCP, Docker, NLTK, MySQL, MongoDB, Figma, Cromwell, Git
 
 [![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=valamuri2020&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!-- 
