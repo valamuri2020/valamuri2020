@@ -1,7 +1,8 @@
 # Hi, I'm Vivek 👋
 
 * **Computer Engineering @UWaterloo - Class of 2025**
-* **Data Scientist @ Sagen, prev @ Ontario Inst. of Cancer Research**
+* **Data Scientist @ Sagen**
+* **prev @ Ontario Inst. of Cancer Research**
 * **Computer Vision Engineer @ UWaterloo Aerial Robotics**
 * **Open to Summer '22 Opportunities!**
 
