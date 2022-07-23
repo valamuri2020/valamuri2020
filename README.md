@@ -1,7 +1,7 @@
 # Hi, I'm Vivek 👋
 
 * **Computer Engineering @UWaterloo - Class of 2025**
-* **Bioinformatics SWE intern @ OICR (Ontario Institute of Cancer Research)**
+* **Data Scientist @ Sagen, prev @ Ontario Inst. of Cancer Research**
 * **Computer Vision Engineer @ UWaterloo Aerial Robotics**
 * **Open to Summer '22 Opportunities!**
 
