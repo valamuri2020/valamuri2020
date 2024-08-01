@@ -1,9 +1,8 @@
 # Hi, I'm Vivek 👋
 
-* **Computer Engineering @UWaterloo - Class of 2025**
+* **Computer Engineering @UWaterloo**
 * **Undergraduate Research Assistant - Distributed Systems**
-* **Interfacing Team Lead @ WATonomous**
-* **Open to Winter '24 Internship Opportunities!**
+* **Open to Summer '25 Internship Opportunities!**
 
 
 * If you're interested in my **OS-350**, **Fetch**, or **Systolic Array** projects, please reach out to me at `valamuri@uwaterloo.ca` so I can securely share it with you. Thanks!
