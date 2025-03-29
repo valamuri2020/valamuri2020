@@ -1,9 +1,6 @@
 # Hi, I'm Vivek 👋
 
 * **Computer Engineering @UWaterloo**
-* **Undergraduate Research Assistant - Distributed Systems**
-* **Open to Summer '25 Internship Opportunities!**
-
 
 * If you're interested in my **OS-350**, **Fetch**, or **Systolic Array** projects, please reach out to me at `valamuri@uwaterloo.ca` so I can securely share it with you. Thanks!
 <!-- 
